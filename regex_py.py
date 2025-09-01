@@ -22,3 +22,4 @@ for email in emails:
         print(f"{email} --> ✅ PASS")
     else:
         print(f"{email} --> ❌ NOT PASS")
+
